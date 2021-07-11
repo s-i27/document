@@ -1,2 +1,18 @@
-cd app
-flutter create first_app
+
+development tool
+reference
+https://flutter.dev/docs/get-started/install/macos
+
+git
+xcode
+Android studio
+
+$ flutter doctor
+
+# app create
+$ cd app
+$ flutter create first_app
+
+# VC install
+extensions
+・Flutter
