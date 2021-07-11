@@ -1,18 +1,45 @@
+# go through the path
+root dir
+$ command  + shift + .
+Hidden files
+.zshrc file
+open text
 
-development tool
+# development tool
 reference
 https://flutter.dev/docs/get-started/install/macos
+1 git
+2 xcode
+3 Android studio
 
-git
-xcode
-Android studio
-
+# development create
 $ flutter doctor
-
 # app create
 $ cd app
 $ flutter create first_app
 
 # VC install
-extensions
+extensions∏
 ・Flutter
+・xcode
+・Material Icon Theme
+
+# run
+flutter run
+
+# 役立つリソースとリンク
+
+公式フラッタードキュメント:https://flutter.io/docs/
+
+macOS セットアップ ガイド: https://flutter.io/setup-macos
+
+Windows セットアップ ガイド: https://flutter.io/setup-windows
+
+Linux セットアップガイド: https://flutter.io/setup-linux
+
+ビジュアルスタジオコード:https://code.visualstudio.com/
+
+ビジュアルスタジオコードフラッター拡張:https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
+
+アンドロイドスタジオ:https://developer.android.com/studio/
+
